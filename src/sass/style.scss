@@ -1,0 +1,7 @@
+@import "_colors.scss";
+@import "../fonts/font-awesome-sass/font-awesome.scss";
+@import "_loader.scss";
+
+html,body{
+  color: $text;
+}
